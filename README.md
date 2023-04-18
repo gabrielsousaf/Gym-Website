@@ -29,4 +29,8 @@
 
 https://gabrielsousaf.github.io/Gym-Website/
 
+## 📝 Licença
+
+> Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
+
 
